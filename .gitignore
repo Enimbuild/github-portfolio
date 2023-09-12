@@ -1,0 +1,11 @@
+# Ignore CSS files
+*.css
+
+# Ignore JavaScript files
+*.js
+
+# Ignore HTML files
+*.html
+
+# Ignore PHP files
+*.php
